@@ -6,6 +6,8 @@ A list of Unity resources I find useful or interesting.
 [ParrelSync](https://github.com/VeriorPies/ParrelSync) - Test multiplayer within the editor.
 
 [Piranha](https://github.com/keenanwoodall/Piranha) - A simple tool to make rigidbodies swarm a mesh in Unity.
+### Frameworks
+[UniMob](https://github.com/codewriter-packages/UniMob) - Simple and scalable state management for Unity.
 
 ### Projects
 [Morrowind Unity](https://github.com/arycama/MorrowindUnity) - Recreation of Morrowind game in Unity.
