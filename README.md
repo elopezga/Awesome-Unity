@@ -7,6 +7,8 @@ A list of Unity resources I find useful or interesting.
 
 [Piranha](https://github.com/keenanwoodall/Piranha) - A simple tool to make rigidbodies swarm a mesh in Unity.
 
+[Minject](https://github.com/ninito-ph/MinJect)
+
 ### Graphics
 [Shadow Volume Generator](https://github.com/rhedgeco/UnityShadowVolumeGenerator)
 
